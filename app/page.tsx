@@ -6,7 +6,7 @@ export default function Home() {
       </h1>
 
       <p className="mt-4 text-lg text-gray-700">
-        This is my second Next.js project.
+        This is my second Next.js project. Testing the editor and the live preview feature
       </p>
     </main>
   );
